@@ -1,1 +1,2 @@
-exclude: config.rb, README.md
+markdown: rdiscount
+pygments: true
