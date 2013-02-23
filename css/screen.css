@@ -88,7 +88,7 @@ ul.posts {
 
 .title {
   color: #a00;
-  font-size: 150%;
+  font-size: 200%;
   font-weight: bold;
   margin-bottom: 2em;
 }
@@ -97,7 +97,7 @@ ul.posts {
     color: #aaa;
     font-weight: normal;
     font-style: italic;
-    font-size: 25%;
+    font-size: 40%;
   }
 
   .site .title a {
