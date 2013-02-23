@@ -92,6 +92,11 @@ ul.posts {
   margin-bottom: 2em;
 }
 
+  .site .title .author {
+    color: black;
+    font-weight: normal;
+  }
+
   .site .title a {
     color: #a00;
     text-decoration: none;
