@@ -87,11 +87,18 @@ ul.posts {
 }
 
 .title {
-  color: black;
+  color: #a00;
   font-size: 200%;
   font-weight: bold;
   margin-bottom: 1em;
 }
+
+  .site .title .author {
+    color: #aaa;
+    font-weight: normal;
+    font-style: italic;
+    font-size: 40%;
+  }
 
   .site .title a {
     color: #a00;
