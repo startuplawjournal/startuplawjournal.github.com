@@ -93,13 +93,6 @@ ul.posts {
   margin-bottom: 1em;
 }
 
-  .site .title .author {
-    color: #aaa;
-    font-weight: normal;
-    font-style: italic;
-    font-size: 40%;
-  }
-
   .site .title a {
     color: #a00;
     text-decoration: none;
