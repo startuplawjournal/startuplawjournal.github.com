@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Business Rap - Part 1
+title: Business Rap
 ---
 
 {{ page.title }}
@@ -34,11 +34,10 @@ And now, my three of favorite choices so far:
 <br>
 </ul>
 
-In my next post, I'll break down some tracks and lyrics that I think would be great candidates for making Horowitz's blog in the future.  I'll also talk about about why I think there's a natural connection between rap and business.  In the meantime, here is a spotify playlist of all the songs on spotify that show up on Horowitz's blog.  I've made it collaborative so feel free to add any tracks if you find them missing.  
+I've also made Spotify playlist of all the available songs that show up on Horowitz's blog.  I've made it collaborative so feel free to add any tracks if you find them missing.  
 
-Comments are over at [Hacker News](http://news.ycombinator.com/item?id=5328267).
 <br>
 
 <iframe src="https://embed.spotify.com/?uri=spotify:user:jwb119:playlist:46hFEzIClFpchpdHlZ6XXr" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
 
-    
+Comments at [Hacker News](http://news.ycombinator.com/item?id=5328267).
