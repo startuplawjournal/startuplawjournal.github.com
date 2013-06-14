@@ -38,7 +38,7 @@ So without further ado, here are the highlights from the much longer [Why Corpor
 "It is also likely that Delaware will continue to enjoy its enviable position. Bayless Manning, the former Dean of Stanford Law School, stated it perfectly when he described the synergies that cause him to recommend Delaware to his clients. After saying some nice things about Delaware lawyers, he went on to say, in words that describe Delaware’s attraction almost as a force of nature: 'Further, my Delaware counsel and I will have a wide ranging and sophisticated body of corporation law—a jurisprudence if you will—to bring to bear on almost any problem that will arise. No other jurisdiction can provide so much. And that is why ***Delaware is national and why its own gravitational pull tends to attract more companies each year*** and thereby, further reinforces its preeminence.'"
 
 
-Have something to add?  Leave a comment over at [Hacker News]().  
+Have something to add?  Leave a comment over at [Hacker News](https://news.ycombinator.com/item?id=5883129).  
 
 
 
