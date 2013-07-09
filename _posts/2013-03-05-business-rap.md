@@ -8,7 +8,7 @@ title: Business Rap
 
 <p class="meta">5 March 2013 - Mountain View, CA</p>
 
-I'm a pretty big fan of Ben Horowitz's [blog posts](http://bhorowitz.com/).  One thing that makes his writing unique is that he usually starts each post with a few rap bars that set the tone for the rest of the piece.  Given that I'm just starting to blog myself, I thought it might make sense to break down some of my favorite music from one of my favorite blogs.  
+I'm a pretty big fan of Ben Horowitz's [blog posts](http://bhorowitz.com/).  One thing that makes his writing unique is that he usually starts each post with a few rap bars that set the tone for the rest of the piece.  
 
 Some quick observations:
 
