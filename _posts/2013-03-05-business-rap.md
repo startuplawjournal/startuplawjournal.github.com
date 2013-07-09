@@ -10,7 +10,7 @@ title: Business Rap
 
 I'm a pretty big fan of Ben Horowitz's [blog posts](http://bhorowitz.com/).  One thing that makes his writing unique is that he usually starts each post with a few rap bars that set the tone for the rest of the piece.  Given that I'm just starting to blog myself, I thought it might make sense to break down some of my favorite music from one of my favorite blogs.  
 
-First, some quick observations:
+Some quick observations:
 
 <ul>
  
@@ -22,19 +22,7 @@ First, some quick observations:
 <br>
 </ul>
 
-And now, my three of favorite choices so far:
-
-<ul>
- 
-<li><strong>Nas = U.B.R. (Unauthorized Biography Of Rakim)</strong>.  There's no better "story rapper" out there than Nas.  All of my favorite Nas tracks are full narratives and this track from Street's Disciple puts a new spin on the typical approach by going through some of Rakim's biography.  It's not my favorite beat in the world, but the classic Nas narrative on Rakim's story puts this among my favorites.  </li>  
-<br>
-<li><strong>Outkast - Church</strong>.  Listen to this song in your car on a sunny Sunday morning and try not to crack a smile or bob your head.  This is classic Outkast from one of their classic albums.  A great beat under some great Andre 3000 and Big Boi bars put this on my list.</li>  
-<br>
-<li><strong>Kanye West - Good Morning</strong>.  This track gets a place on the list because it's the title track on one of my all time favorite albums.  Graduation is still an album that you can just throw on and feel good listening to the whole thing straight through.</li>
-<br>
-</ul>
-
-I've also made Spotify playlist of all the available songs that show up on Horowitz's blog.  I've made it collaborative so feel free to add any tracks if you find them missing.  
+I've made Spotify playlist of all the available songs that show up on Horowitz's blog.  It's collaborative so feel free to add any tracks if you find them missing.  
 
 <br>
 
