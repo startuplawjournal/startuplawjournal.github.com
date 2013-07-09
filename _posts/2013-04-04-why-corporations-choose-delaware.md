@@ -10,7 +10,7 @@ title: Why Corporations Choose Delaware
 
 One of the first questions that an early stage startup lawyer encounters when engaging a new company is where to incorporate.  There's been a robust discussion on the topic, with commentators like [George Grellas](http://www.grellas.com/faq_business_startup_002.html), [Ryan Roberts](http://startuplawyer.com/incorporation/top-5-reasons-to-incorporate-in-delaware) and [Yokum Taku](http://www.startupcompanylawyer.com/2009/03/03/what-state-should-i-incorporate-in/) all chiming in with varying degrees of support for Delaware.  
 
-In the course of fielding this question from a startup myself recently, I came across a relatively obscure pamphlet from the Delaware Department of State that makes some great points worth putting down in a more concise form.  While the tone of the pamphlet itself is a little over the top, at it's core is a relatively good summary of the key things to know about Delaware incorporations.  
+In the course of fielding this question from a startup myself recently, I came across a relatively obscure pamphlet from the Delaware Department of State that makes some great points worth putting down in a more concise form.  While the tone of the pamphlet itself is a little over the top, at its core is a relatively good summary of the key things to know about Delaware incorporations.  
 
 So without further ado, here are the highlights from the much longer [Why Corporations Choose Delaware](http://corp.delaware.gov/whycorporations_web.pdf):
 
